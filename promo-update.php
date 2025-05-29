@@ -49,11 +49,6 @@
         }
     </style>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-KRDNLFP9T6');
-      
       // Function to copy SQL to clipboard
       function copyToClipboard(element) {
           var text = element.textContent;
@@ -139,6 +134,5 @@ AND promotions_percent != 0.00;</p>
         <?php include 'footer.php'; ?>
     </div>
 </div>
-<script async data-id="101475519" src="//static.getclicky.com/js"></script>
 </body>
 </html>
