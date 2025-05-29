@@ -29,13 +29,6 @@
             margin-right: 25px; 
         } 
     </style>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-KRDNLFP9T6');
-    </script>
 </head>
 <body>
     <div class="wrapper">
