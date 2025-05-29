@@ -152,6 +152,5 @@ if (isset($_POST['submit'])) {
         <?php include 'footer.php'; ?>
     </div>
 </div>
-<script async data-id="101475519" src="//static.getclicky.com/js"></script>
 </body>
 </html>
