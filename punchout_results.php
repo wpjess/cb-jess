@@ -90,6 +90,5 @@ $webStoreDomain = $storeURL;
 
 <p>Test the Punchout request here: <a href="https://support.commercebuild.com/article/how-to-use-punchout/" target="_blank">https://support.commercebuild.com/article/how-to-use-punchout/</a></p>
 </div>
-<script async data-id="101475519" src="//static.getclicky.com/js"></script>
 </body>
 </html>
