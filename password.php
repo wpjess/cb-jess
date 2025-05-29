@@ -216,6 +216,5 @@
     // Generate the initial password on page load
     $(document).ready(updatePassword);
 </script>
-<script async data-id="101475519" src="//static.getclicky.com/js"></script>
 </body>
 </html>
