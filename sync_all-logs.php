@@ -151,6 +151,5 @@ function copyToClipboard() {
     alert("Copied to clipboard: " + copyText);
 }
 </script>
-<script async data-id="101475519" src="//static.getclicky.com/js"></script>
 </body>
 </html>
