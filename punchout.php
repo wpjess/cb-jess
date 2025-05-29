@@ -33,13 +33,6 @@
         } 
         .content { max-width:1000px; margin:40px auto; word-wrap: break-word; height:90%; position:relative; }
     </style>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-KRDNLFP9T6');
-    </script>
 </head>
 <body>
     <div class="content">
@@ -71,6 +64,5 @@
         <?php include 'footer.php'; ?>
     </div>
 </div>
-<script async data-id="101475519" src="//static.getclicky.com/js"></script>
 </body>
 </html>
